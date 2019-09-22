@@ -1,2 +1,2 @@
 # suntek-week1
-week 1 assignment
+week 1 september
